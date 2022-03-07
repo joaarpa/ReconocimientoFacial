@@ -1,4 +1,4 @@
 package com.example.reconocimientofacial.camera;
 
-public class CameraSourcePreview {
+public class CameraSourcePreview {cdd
 }
